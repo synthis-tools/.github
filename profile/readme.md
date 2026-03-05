@@ -1,5 +1,7 @@
-Give your AI agent persistent memory across sessions.
+[![Memory for your agent](https://github.com/synthis-tools/synthesis-mcp/blob/main/header.png?raw=true)](https://synthesis-dashboard.pages.dev/)
 
-Check out the [Synthesis MCP server](https://github.com/synthis-tools/synthesis-mcp) to give your agent structured context, project state, and reusable lessons.
+Persistent memory infrastructure for AI agents.
+
+Explore the [Synthesis MCP server](https://github.com/synthis-tools/synthesis-mcp) to give your agent structured context, project state, and reusable knowledge across sessions.
 
 [contact@synthis.tools](mailto:contact@synthis.tools)
