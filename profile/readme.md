@@ -1,4 +1,4 @@
-[![Memory for your agent](https://github.com/synthis-tools/synthesis-mcp/blob/main/Synthesis.png?raw=true)](https://synthesis-dashboard.pages.dev/)
+[![Memory for your agent](https://github.com/synthis-tools/Synthesis-tools-mcp/blob/main/Synthesis.png?raw=true)](https://synthesis-dashboard.pages.dev/)
 
 Persistent memory infrastructure for AI agents.
 
